@@ -5,17 +5,17 @@ def reload
 end
 
 ###  WRITE YOUR TEST CODE HERE ###
-jack = Role.first
-mary = Role.second
+jen = Role.first
+mace = Role.second
 joker = Role.third
 bruce = Role.fourth
-jon = Role.last
+lee = Role.last
 
-depp = Audition.first
-ana = Audition.second
-ledger = Audition.third
-ben = Audition.fourth
-kit = Audition.last
+dept = Audition.first
+ant = Audition.second
+led = Audition.third
+benta = Audition.fourth
+kitkat = Audition.last
 
 ### DO NOT REMOVE THIS
 binding.pry
